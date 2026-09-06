@@ -11,7 +11,7 @@ Few-Shot Class Incremental Learning (FSCIL) suffers from catastrophic forgetting
 ## Results
 <img src='results/Plots/acctableminiImageNet.PNG' width='900' height='700'> 
 
-<img src='results/Plots/newr_accbarPlott.PNG' width='900' height='700'> 
+<img src='results/Plots/newr_accbarPlot.PNG' width='900' height='700'> 
 
 Please refer to the paper...
 
